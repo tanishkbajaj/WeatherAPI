@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4941FB7F22F8FF7400EFCD7B /* weatherApiimage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4941FB7E22F8FF7400EFCD7B /* weatherApiimage.jpg */; };
 		49AB4E9222F8D5220082AC19 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AB4E9122F8D5220082AC19 /* AppDelegate.swift */; };
 		49AB4E9422F8D5220082AC19 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49AB4E9322F8D5220082AC19 /* ViewController.swift */; };
 		49AB4E9722F8D5220082AC19 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49AB4E9522F8D5220082AC19 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4941FB7E22F8FF7400EFCD7B /* weatherApiimage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = weatherApiimage.jpg; sourceTree = "<group>"; };
 		49AB4E8E22F8D5210082AC19 /* WeatherAPI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherAPI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		49AB4E9122F8D5220082AC19 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		49AB4E9322F8D5220082AC19 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 			children = (
 				49AB4E9022F8D5220082AC19 /* WeatherAPI */,
 				49AB4E8F22F8D5210082AC19 /* Products */,
+				4941FB7E22F8FF7400EFCD7B /* weatherApiimage.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,6 +128,7 @@
 				49AB4E9C22F8D5250082AC19 /* LaunchScreen.storyboard in Resources */,
 				49AB4E9922F8D5250082AC19 /* Assets.xcassets in Resources */,
 				49AB4E9722F8D5220082AC19 /* Main.storyboard in Resources */,
+				4941FB7F22F8FF7400EFCD7B /* weatherApiimage.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
